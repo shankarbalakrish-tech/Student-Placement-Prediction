@@ -1,0 +1,24 @@
+artifact_path: /Users/vijbalak/Documents/MLOps/Student Placement Project/mlruns/1/models/m-cb032f8b08864e20a16734fe018893e9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.6
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.8.0
+    skops_trusted_types:
+    - sklearn.tree._tree.Tree
+mlflow_version: 3.16.1
+model_id: m-cb032f8b08864e20a16734fe018893e9
+model_size_bytes: 1824618
+model_uuid: m-cb032f8b08864e20a16734fe018893e9
+prompts: null
+run_id: 475aa30f7eac4487a4e44ca13d6bb604
+utc_time_created: '2026-09-19 07:13:22.699745'
