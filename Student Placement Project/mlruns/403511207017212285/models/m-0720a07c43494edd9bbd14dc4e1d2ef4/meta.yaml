@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Edureka/Desktop/mlops/Student Placement Project/mlruns/403511207017212285/models/m-0720a07c43494edd9bbd14dc4e1d2ef4/artifacts
+creation_timestamp: 1775731999119
+experiment_id: '403511207017212285'
+last_updated_timestamp: 1775732008976
+model_id: m-0720a07c43494edd9bbd14dc4e1d2ef4
+model_type: null
+name: model
+source_run_id: 69420a15a998426abe5523f78582ac4e
+status: 2
+status_message: null

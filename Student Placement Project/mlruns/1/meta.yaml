@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/Edureka/Desktop/mlops/Student Placement Project/mlruns/403511207017212285
+creation_time: 1775731998456
+experiment_id: '403511207017212285'
+last_update_time: 1775731998456
+lifecycle_stage: active
+name: Student Placement Prediction
+trace_location: null
+workspace: default
