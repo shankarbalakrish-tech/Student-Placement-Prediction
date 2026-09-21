@@ -1,0 +1,24 @@
+artifact_path: /Users/vijbalak/Documents/MLOps/mlops-repro-demo/mlruns/1/models/m-2bced25a07844e6e84116a8428d7bad6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.6
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.8.0
+    skops_trusted_types:
+    - sklearn.tree._tree.Tree
+mlflow_version: 3.16.1
+model_id: m-2bced25a07844e6e84116a8428d7bad6
+model_size_bytes: 1821437
+model_uuid: m-2bced25a07844e6e84116a8428d7bad6
+prompts: null
+run_id: 8fdadbde02f94f8ca3ef9fc2493b1bd3
+utc_time_created: '2026-09-21 09:47:17.285884'
